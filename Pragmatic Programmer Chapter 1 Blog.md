@@ -1,6 +1,6 @@
 #Pragmatic Programmer Chapter 1
 
-This Chapter went over three things:
+This Chapter went over six things:
 
 ##The Cat Ate My Source Code
 
